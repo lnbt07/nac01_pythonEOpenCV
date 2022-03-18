@@ -1,52 +1,35 @@
-# Template para desenvolvimento e entrega de NAC
+# NAC1 - Python e OpenCV - 2022
 
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
+**nome dos alunos:** Carolina Bartoli 
 
-# Nome do projeto
+**Turma:** 4SIA
 
-**nome dos alunos:** 
-
-**Turma:**
-
-**Ano:**
+**Ano:** 4º
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Este projeto tem como objetivo identificar os maiores circulos em uma imagem, o centro deles e a área deles. Com base no centro dos circulos, também fará uma linha reta de um centro à outro e calcular o angulamento dessa linha com base no eixo y do primeiro circulo. Foram utilizadas as bibliotecas OpenCV, Numpy, Pyplot do MatPlotLib e Math, com base na linguagem Python.
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+Abaixo, prints do projeto funcionando através do Jupyter Notebook. 
 
-<img src="/imagem.jpg" width="550">
-
+<img src="/print1.jpg" width="550">
+<img src="/print2.jpg" width="550">
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
+Para rodar o projeto, basta seguir as etapas abaixo: 
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
-
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
+* Abra, no navegador, esse link <a href="https://colab.research.google.com">aqui</a>
+* Depois de fazer login, clique em "GitHub" na janela que abrir e cole o link abaixo:
+    https://github.com/lnbt07/nac01_pythonEOpenCV
+* Por ultimo, é só clicar em "Novo Notebook" e será possível utilizar o Notebook por mim criado.
 
 
 ## Link de vídeo demonstração
 
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+(Em breve)
 
 
 ### Referências 
