@@ -14,8 +14,8 @@ Este projeto tem como objetivo identificar os maiores circulos em uma imagem, o 
 
 Abaixo, prints do projeto funcionando através do Jupyter Notebook. 
 
-<img href="https://github.com/lnbt07/nac01_pythonEOpenCV/blob/205b5cfdc73c77a63461aa93781ecffa47a01f63/print1.PNG" width="550">
-<img href="https://github.com/lnbt07/nac01_pythonEOpenCV/blob/205b5cfdc73c77a63461aa93781ecffa47a01f63/print2.PNG" width="550">
+<img href="https://github.com/lnbt07/nac01_pythonEOpenCV/blob/main/print1.PNG" width="550">
+<img href="https://github.com/lnbt07/nac01_pythonEOpenCV/blob/main/print2.PNG" width="550">
 
 ## Como usar 
 
