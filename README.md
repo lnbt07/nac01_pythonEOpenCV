@@ -14,8 +14,8 @@ Este projeto tem como objetivo identificar os maiores circulos em uma imagem, o 
 
 Abaixo, prints do projeto funcionando através do Jupyter Notebook. 
 
-<img src="print1.jpg" width="550">
-<img src="print2.jpg" width="550">
+<img src="print1.png" width="550">
+<img src="print2.png" width="550">
 
 ## Como usar 
 
